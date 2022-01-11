@@ -55,7 +55,7 @@ let g_text = [
 	"Lyra  —  \"Now, what say we go do some sight-seeing?\"  \u25bc",
 	"Me  —  \"That's not a bad idea...\"  \u25bc",
 	"",
-	"As the two of us walked about, checking out the various structures, we made some small talk. \u25bc",
+	"As the two of us walked about, checking out the various structures, we again made small talk. \u25bc",
 	"Some people are good at talking to strangers. I wouldn't really consider myself such a person, though. \u25bc",
 	"Lyra  —  \"Have you heard of the backstory behind this place?\"  \u25bc",
 	"Me  —  \"No, I can't say I really have. Is there anything particularly interesting?\"  \u25bc",
