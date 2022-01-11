@@ -1,16 +1,32 @@
 <!doctype html>
-
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>8BMT 2021 Secret Santa</title>
-    <meta name="description" content="A simple text-based game.">
-    <meta name="author" content="Lollipop">
-  </head>
+		<title>ruines d'albâtre</title>
+		<meta name="description" content="A simple text-based game.">
+		<meta name="author" content="Lollipop">
 
-  <body>
-    <p>Content coming in due time!</p>
-  </body>
+		<link rel="icon" type="image/x-icon" href="favicon.ico"/>
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro">
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<div id="main"></div>
+
+		<div id="audio">
+			<audio id="audio_rain" src="./assets/sounds/rain.ogg" type="audio/ogg" preload="auto"></audio>
+			<audio id="audio_music" src="./assets/sounds/music.ogg" type="audio/ogg" preload="auto"></audio>
+		</div>
+
+		<div id="info">
+			<p>Controls: Left mouse button to advance text</p>
+			<p><i>Please wait for the text to fully fade in before advancing! Everything will break if you go too quickly.</i></p>
+			<p><i>Not tested on mobile!</i></p>
+		</div>
+
+		<script src="script.js"></script>
+	</body>
 </html>
